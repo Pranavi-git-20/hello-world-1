@@ -14,9 +14,7 @@
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
-    <sonar.host.url>http://13.208.240.28:9000/</sonar.host.url>
-    <sonar.login>admin</sonar.login>
-    <sonar.password>Kesavasai@123</sonar.password> 
+   
   </properties>
 
   <modules>
